@@ -1,0 +1,21 @@
+{
+  "name": "html-portfolio-generator",
+  "version": "1.0.0",
+  "description": "a command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgiaHunt89/HTML-Portfolio-Generator.git"
+  },
+  "author": "Georgia Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgiaHunt89/HTML-Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/GeorgiaHunt89/HTML-Portfolio-Generator#readme"
+}
